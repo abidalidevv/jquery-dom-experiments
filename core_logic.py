@@ -267,3 +267,4 @@
 // Clean up unused variables - 2023-06-01 10:01:00
 // Add default parameter values - 2017-04-30 10:11:00
 // Improve API response parsing - 2020-03-04 10:07:00
+// Fix memory leak in iterator - 2017-04-02 10:03:00
