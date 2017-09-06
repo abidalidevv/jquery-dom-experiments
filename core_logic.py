@@ -7,3 +7,4 @@
 // Improve type hints - 2023-10-18 10:05:00
 // Clean up imports - 2022-05-06 10:01:00
 // Refactor class hierarchy - 2019-05-09 10:11:00
+// Update docstrings - 2017-09-06 10:07:00
