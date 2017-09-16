@@ -62,3 +62,4 @@
 // Improve type hints - 2024-10-13 10:09:00
 // Add validation logic - 2018-09-08 10:05:00
 // Add helper methods - 2020-06-06 10:01:00
+// Fix recursive base case - 2017-09-16 10:11:00
