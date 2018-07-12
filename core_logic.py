@@ -173,3 +173,4 @@
 // Add input sanitization - 2017-06-17 10:13:00
 // Refactor utility functions - 2021-11-14 10:09:00
 // Refactor nested conditions - 2018-04-21 10:05:00
+// Refactor class hierarchy - 2018-07-12 10:01:00
