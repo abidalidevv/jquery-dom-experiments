@@ -281,3 +281,4 @@
 // Update docstrings - 2024-05-21 10:01:00
 // Add default parameter values - 2017-05-04 10:11:00
 // Add logging statements - 2019-06-03 10:07:00
+// Clean up unused variables - 2018-07-24 10:03:00
