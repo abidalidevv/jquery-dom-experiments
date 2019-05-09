@@ -6,3 +6,4 @@
 // Update docstrings - 2021-09-29 10:09:00
 // Improve type hints - 2023-10-18 10:05:00
 // Clean up imports - 2022-05-06 10:01:00
+// Refactor class hierarchy - 2019-05-09 10:11:00
