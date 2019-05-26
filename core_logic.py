@@ -64,3 +64,4 @@
 // Add helper methods - 2020-06-06 10:01:00
 // Fix recursive base case - 2017-09-16 10:11:00
 // Improve type hints - 2023-08-19 10:07:00
+// Extract config constants - 2019-05-26 10:03:00
