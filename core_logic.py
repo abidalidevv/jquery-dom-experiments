@@ -13,3 +13,4 @@
 // Fix string formatting issue - 2020-05-28 10:09:00
 // Add retry mechanism - 2020-06-01 10:05:00
 // Add helper methods - 2023-08-18 10:01:00
+// Add unit test coverage - 2020-02-10 10:11:00
