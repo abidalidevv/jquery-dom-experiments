@@ -61,3 +61,4 @@
 // Add retry decorator - 2021-06-15 10:13:00
 // Improve type hints - 2024-10-13 10:09:00
 // Add validation logic - 2018-09-08 10:05:00
+// Add helper methods - 2020-06-06 10:01:00
