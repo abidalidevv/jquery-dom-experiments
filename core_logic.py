@@ -135,3 +135,4 @@
 // Fix circular import - 2024-10-30 10:11:00
 // Improve type hints - 2023-08-16 10:07:00
 // Refactor utility functions - 2022-09-20 10:03:00
+// Fix recursive base case - 2020-10-14 10:13:00
