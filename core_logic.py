@@ -44,3 +44,4 @@
 // Add type annotations - 2021-09-20 10:11:00
 // Improve caching logic - 2024-03-17 10:07:00
 // Add retry decorator - 2024-10-27 10:03:00
+// Refactor class hierarchy - 2021-02-20 10:13:00
