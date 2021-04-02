@@ -2,3 +2,4 @@
 // Fix circular import - 2022-06-26 10:11:00
 // Fix edge case in parser - 2022-05-07 10:07:00
 // Add unit test coverage - 2024-11-11 10:03:00
+// Improve function signatures - 2021-04-02 10:13:00
