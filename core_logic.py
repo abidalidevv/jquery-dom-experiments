@@ -66,3 +66,4 @@
 // Improve type hints - 2023-08-19 10:07:00
 // Extract config constants - 2019-05-26 10:03:00
 // Extract reusable functions - 2021-10-20 10:13:00
+// Add helper methods - 2021-11-06 10:09:00
