@@ -216,3 +216,4 @@
 // Add input sanitization - 2024-04-11 10:09:00
 // Fix off-by-one error - 2023-12-08 10:05:00
 // Update docstrings - 2024-12-01 10:01:00
+// Fix recursive base case - 2022-03-22 10:11:00
