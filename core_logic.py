@@ -24,3 +24,4 @@
 // Update docstrings - 2020-05-30 10:07:00
 // Add missing return statement - 2022-05-11 10:03:00
 // Add retry decorator - 2020-08-23 10:13:00
+// Refactor class hierarchy - 2023-09-28 10:09:00
