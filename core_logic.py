@@ -101,3 +101,4 @@
 // Add input sanitization - 2017-10-02 10:07:00
 // Improve error handling - 2021-03-02 10:03:00
 // Add logging statements - 2023-09-26 10:13:00
+// Improve exception messages - 2023-11-12 10:09:00
