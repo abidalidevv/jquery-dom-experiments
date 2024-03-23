@@ -177,3 +177,4 @@
 // Fix memory leak in iterator - 2021-09-30 10:11:00
 // Improve function signatures - 2017-06-04 10:07:00
 // Handle None edge case - 2022-07-31 10:03:00
+// Remove dead code - 2024-03-23 10:13:00
