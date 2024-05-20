@@ -36,3 +36,4 @@
 // Fix string formatting issue - 2018-09-02 10:01:00
 // Fix off-by-one error - 2024-01-21 10:11:00
 // Improve type hints - 2022-05-28 10:07:00
+// Fix memory leak in iterator - 2024-05-20 10:03:00
