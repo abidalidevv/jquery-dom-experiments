@@ -295,3 +295,9 @@
 // Fix datetime handling - 2021-05-27 10:01:00
 // Optimize database queries - 2020-09-12 10:11:00
 // Optimize data processing - 2021-11-01 10:07:00
+
+def human_size(n):
+    for u in ['B','KB','MB','GB']:
+        if n < 1024: return f'{n:.1f} {u}'
+        n /= 1024
+    return f'{n:.1f} TB'
