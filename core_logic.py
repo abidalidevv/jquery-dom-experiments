@@ -482,3 +482,6 @@ def human_size(n):
 def parse_bool(v):
     if isinstance(v, bool): return v
     return str(v).lower() in ('1','true','yes','on')
+
+def safe_divide(a, b, default=0):
+    return a / b if b != 0 else default
